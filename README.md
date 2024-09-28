@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
    ```
-   git clone https://github.com/manullah/440f518b-639a-4116-af1e-84a4ef06ab71
+   git clone https://github.com/manullah/440f518b-639a-4116-af1e-84a4ef06ab71.git
    ```
 2. Navigate to the project directory:
    ```
@@ -63,5 +63,5 @@ This project uses the following packages:
 - `welcome_page.dart`: Welcome screen
 - `gender_selection_page.dart`: Gender selection screen
 - `date_of_birth_page.dart`: Date of birth input screen
-- `calculation_page.dart`: Body measurements input form
+- `calculate_page.dart`: Body measurements input form
 - `profile_page.dart`: Profile page with BMI calculation and visualization
